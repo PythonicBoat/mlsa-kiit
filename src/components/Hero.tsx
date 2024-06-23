@@ -42,7 +42,7 @@ const Hero = () => {
             registrationLink="https://linktr.ee/mlsakiit"
             registrationClosed={false}
             display={true}
-            registrationName="Register Now"
+            registrationName="Join our socials"
           // Add know rules link here
           />
         </div>

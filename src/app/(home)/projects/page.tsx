@@ -13,7 +13,7 @@ const Projects = () => {
         setProjectsCounter((num) => num + 1);
       }
 
-      if (sponsersCounter < 63) {
+      if (sponsersCounter < 100) {
         setSponsersCounter((num) => num + 1);
       }
     };

@@ -831,7 +831,46 @@ export const OUR_SPONSORS = [
   },
 ];
 
+export const EVENTS2024 = [
+  {
+    bgColor: "#9CE7FF",
+    img: "/defcon_event.JPG",
+    ProjectName: "Defcon",
+    date: "31st March 2024",
+    numParticipants: "1000+ Participants",
+    isButton: false,
+    isHero: false,
+    link: "",
+    description:
+      "A beginner-friendly workshop to spread awareness about Open-Source and HacktoberFest.",
+  },
+];
+
 export const EVENTS2023 = [
+  {
+    bgColor: "#9CE7FF",
+    img: "/krypticHunt.png",
+    ProjectName: "Kryptic Hunt",
+    date: "31st December 2023",
+    numParticipants: "400+ Participants",
+    isButton: false,
+    isHero: false,
+    link: "",
+    description:
+      "A beginner-friendly workshop to spread awareness about Open-Source and HacktoberFest.",
+  },
+  {
+    bgColor: "#9CE7FF",
+    img: "/hcfest.JPG",
+    ProjectName: "HacktoberFestXMLSA",
+    date: "2nd October 2023",
+    numParticipants: "1800+ Participants",
+    isButton: false,
+    isHero: false,
+    link: "",
+    description:
+      "A beginner-friendly workshop to spread awareness about Open-Source and HacktoberFest.",
+  },
   {
     bgColor: "#9CE7FF",
     img: "/StarkExpo.jpg",

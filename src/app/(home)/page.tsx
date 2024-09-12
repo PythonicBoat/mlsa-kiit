@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react"
 // import OurAlumuni from "@/components/Alumni";
 import Alumni1 from "@/components/Alm";
 import JoinUs from "@/components/JoinUs";
-import Leads from "@/components/LeadsAnimated";
+// import Leads from "@/components/LeadsAnimated";
 // import Leads from "@/components/LeadsAnimated";
 // import OurLeads from "@/components/OurLeads";
 import Hero from "@/components/Hero";
@@ -27,7 +27,7 @@ export default function Home() {
       <Domain />
       {/* <ScrollAnimationLead /> */}
       <CurrentLeads />
-      <Leads />
+      {/* <Leads /> */}
       <JoinUs />
       <Alumni1 />
       <ScrollAnimationCode />

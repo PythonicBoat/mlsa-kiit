@@ -208,7 +208,6 @@ const Leads: React.FC = () => {
 
                 </div>
             </div>
-
         </>
     );
 };

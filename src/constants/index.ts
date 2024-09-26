@@ -1365,162 +1365,54 @@ export const videoedit = [
 export const Marketing1 = [
   {
     id: 1,
+    img: "/members/ABHISHREEBHADRA.jpg",
+    name: "Abhishree Bhadra",
+    domain: "Marketing",
+    github: "",
+    linkedIn: "https://www.linkedin.com/in/abhishree-bhadra-25abb0245/",
+    instagram: "https://www.instagram.com/abhishreebhadra?igsh=cmQ0ZGdzc2txYWl4",
+  },
+  {
+    id: 2,
     img: "/members/YASHASWINI SARANGI.jpg",
     name: "Yashaswini Sarangi",
     domain: "Marketing",
     github: "",
-    linkedIn: "https://www.linkedin.com/in/yashaswini-sarangi-88b78a251",
-    instagram: "https://instagram.com/_.yashaswini..sarangi.?igshid=MjAxZDBhZDhlNA==",
-  },
-  {
-    id: 2,
-    img: "/members/2.jpg",
-    name: "Debesh Acharya",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "https://www.linkedin.com/in/debesh-acharya-06ba72175",
-    instagram: "https://instagram.com/debeshacharya_?igshid=MzNlNGNkZWQ4Mg==",
+    linkedIn: "https://www.linkedin.com/in/yashaswini-sarangi-88b78a251/",
+    instagram: "https://www.instagram.com/yashaswini._.sarangi?utm_source=qr&igsh=MWF1dDJpNjcxNWQ3YQ==",
   },
   {
     id: 3,
-    img: "/members/VAISHNAVI SINGH.jpg",
-    name: "Vaishnavi Singh",
+    img: "/members/ADITYA CHOWDHURY.jpeg",
+    name: "Aditya Chowdhury",
     domain: "Marketing",
     github: "",
-    linkedIn: "",
-    instagram: "",
+    linkedIn: "https://www.linkedin.com/in/chowdhuryaditya",
+    instagram: "https://www.instagram.com/_aditya_215_?igsh=MTBydG4yaGl0ZGZ4ZA==",
   },
   {
     id: 4,
-    img: "/members/DHYANAM ATTREYA.jpg",
-    name: "Dhyanam Attreya",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
+    img: '/members/lavanya.jpeg',
+    name: 'Lavanya',
+    domain: 'Marketing',
+    github: '',
+    linkedin: 'https://www.linkedin.com/in/lavanya0409/',
+    instagram: 'https://www.instagram.com/_.lavxnyaaa._?igsh=MTZudzdsOGw0cGIwMQ%3D%3D&utm_source=qr'
   },
   {
     id: 5,
-    img: "/members/Deepika Soni.png",
-    name: "Deepika Soni",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 6,
-    img: "/members/RajivMishra.jpg",
-    name: "Rajiv Mishra",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "https://www.linkedin.com/in/rajiv-mishra-3389231b3",
-    instagram: "",
-  },
-  {
-    id: 7,
-    img: "/members/Shouryjeet Gupta.jpeg",
-    name: "Shouryjeet Gupta",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "https://www.linkedin.com/in/rajiv-mishra-3389231b3",
-    instagram: "",
-  },
-  {
-    id: 8,
-    img: "/members/PRANSHU SAHAY.jpg",
-    name: "Pranshu Sahay",
-    domain: "Marketing",
-    github: "https://github.com/Pranshu-Sahay",
-    linkedIn: "https://www.linkedin.com/in/pranshu-sahay/",
-    instagram: "https://instagram.com/coz.nobody?igshid=NGExMmI2YTkyZg==",
-  },
-  {
-    id: 9,
-    img: "/members/GIRISH KYAL1.jpg",
-    name: "Girish Kayal",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 10,
-    img: "/members/ABHISHREEBHADRA.jpg",
-    name: "Abhishree bhadra",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "https://www.linkedin.com/in/abhishree-bhadra-25abb0245/",
-    instagram: "https://instagram.com/abhishreebhadra?igshid=MzNlNGNkZWQ4Mg==",
-  },
-  {
-    id: 11,
-    img: "/members/ANKIT KUMAR1.jpg",
-    name: "Ankit Kumar",
-    domain: "Marketing",
-    github: "https://github.com/Ankit-kr13",
-    linkedIn: "https://www.linkedin.com/in/ankit-kumar-5b1b68205",
-    instagram: "https://instagram.com/_ankitkumarr?igshid=MzNlNGNkZWQ4Mg==",
-  },
-  {
-    id: 12,
-    img: "/members/Adarsh Kumar Rath.jpg",
-    name: "Adarsh Kumar Rath",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 13,
-    img: "/members/Krishna Agrawal.jpg",
-    name: "Krishna Agrawal",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 14,
-    img: "/members/UTSAV ANAND.jpg",
-    name: "Utsav Anand",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 15,
-    img: "/members/AVINAV ROY.png",
-    name: "Avinav Roy",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "https://www.linkedin.com/in/avinav-roy-681a11206/",
-    instagram: "https://instagram.com/imaviroy?igshid=ZDdkNTZiNTM=",
-  },
-  {
-    id: 16,
-    img: "/members/Anand.jpg",
-    name: "Anand",
-    domain: "Marketing",
-    github: "",
-    linkedIn: "",
-    instagram: "",
+    img: '/members/debesh.jpg',
+    name: 'Debesh Acharya',
+    domain: 'Marketing',
+    github: 'https://github.com/Debesh-Acharya',
+    linkedin: 'https://www.linkedin.com/in/debesh-acharya-06ba72175',
+    instagram: 'https://www.instagram.com/debeshacharya_?igsh=MTc2cjk0ZHJxazRlZw=='
   },
 ];
 
 export const MachineLearning = [
   {
     id: 1,
-    img: "/members/Indranil_Nag.png",
-    name: "Indranil Nag",
-    domain: "Machine Learning",
-    github: "https://github.com/Indranil28",
-    linkedIn: "https://www.linkedin.com/in/indranil-nag-658142248/",
-    instagram: "https://www.instagram.com/mr._poised/",
-  },
-  {
-    id: 3,
     img: "/members/MITUL GOSWAMI.png",
     name: "Mitul Goswami",
     domain: "Machine Learning",
@@ -1529,25 +1421,35 @@ export const MachineLearning = [
     instagram: "https://instagram.com/mitul__95__?igshid=ZDc4ODBmNjlmNQ==",
   },
   {
+    id: 2,
+    img: '/members/TWINKLE PAL.jpg', 
+    name: 'Twinkle Pal',
+    domain: 'AI/ML',
+    github: 'https://github.com/TwinklePal',
+    linkedin: 'https://www.linkedin.com/in/twinkle-pal-2126002b2/',
+    instagram: 'https://www.instagram.com/twinkle__pal/'
+  },
+  {
+    id:3,
+    img: '/members/ROMIT CHATTERJEE.jpg', 
+    name: 'Romit Chatterjee',
+    domain: 'AI/ML',
+    github: 'https://github.com/Romit23',
+    linkedin: 'https://www.linkedin.com/in/romit-chatterjee-1931b326a',
+    instagram: 'https://www.instagram.com/Romit@2004'
+
+  },
+  {
     id: 4,
-    img: "/members/AlokKumarJha.png",
-    name: "Alok Kumar Jha",
-    domain: "Machine Learning",
-    github: "https://github.com/akjalok",
-    linkedIn: "https://www.linkedin.com/in/alok-kumar-jha-316572224",
-    instagram: "https://instagram.com/alok1877_",
+    img: '/members/AHONA BAR.jpg',
+    name: 'Ahona Bar',
+    domain: 'AI/ML',
+    github: 'https://github.com/Ahona-Bar',
+    linkedin: 'https://www.linkedin.com/in/ahona-bar-8144422a9/',
+    instagram: 'https://www.instagram.com/ahonaaa.05?igsh=Mm01NWhvbmRoeGFo'
   },
   {
-    id: 5,
-    img: "/members/ANURAG PRASOON.jpg",
-    name: "Anurag Prasoon",
-    domain: "Machine Learning",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 6,
+    id: 5, 
     img: "/members/NISHARG.jpg",
     name: "Nisharg Nargund",
     domain: "Machine Learning",
@@ -1556,71 +1458,122 @@ export const MachineLearning = [
     instagram: "https://instagram.com/nisarg_nargund_official?igshid=ZDc4ODBmNjlmNQ==",
   },
   {
-    id: 7,
-    img: "/members/ArunopalDutta.png",
-    name: "Arunopal Dutta",
-    domain: "Machine Learning",
-    github: "https://github.com/EpicLulz1509/",
-    linkedIn: "https://www.linkedin.com/in/arunopal-dutta-9a1ba1222/",
-    instagram: "https://www.instagram.com/arunopal_dutta/",
-  },
-  {
-    id: 8,
-    img: "/members/KARTIK AGARWAL.jpeg",
-    name: "Kartik Agarwal",
-    domain: "Machine Learning",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 10,
-    img: "/members/anir.jpeg",
-    name: "Anirban Roy",
-    domain: "Machine Learning",
-    github: "https://github.com/DeepRoy2002",
-    linkedIn: "http://linkedin.com/in/anirban-roy-251360206/",
-    instagram: "https://www.instagram.com/anirbandeep2002/",
+    id:6,
+    img:"/members/Soham.jpeg",
+    name: 'Soham Roy',
+    domain: 'AI/ML',
+    github: 'https://github.com/sohambuilds',
+    linkedin: 'https://linkedin.com/in/sohamr',
+    instagram: 'https://www.instagram.com/soham_.rx/'
   },
 ];
 
 export const GraphicDesign = [
   {
-    id: 4,
-    img: "/members/akshat.jpg",
-    name: "Akshat Singh",
-    domain: "Graphic Design",
-    github: "https://github.com/Afterdie",
-    linkedIn: "https://www.linkedin.com/in/akshat-singh-a39058249",
-    instagram: "https://instagram.com/akshatsxngh?igshid=NzZlODBkYWE4Ng==",
+    id: 1, // You may adjust this ID as needed
+    img: '/members/Pankhuri Solanki.png',
+    name: 'Pankhuri Solanki',
+    domain: 'Graphic',
+    github: '', // No GitHub URL provided
+    linkedin: 'https://www.linkedin.com/in/pssolanki19/',
+    instagram: 'https://www.instagram.com/pankhur'
   },
   {
-    id: 1,
-    img: "/members/ASHISH POTHAL.png",
-    name: "Ashish Pothal",
-    domain: "Graphic Design",
-    github: "",
-    linkedIn: "",
-    instagram: "",
+    id: 2, // You may adjust this ID as needed
+    img: '/members/MAYANK KUMAR.jpg',
+    name: 'Mayank Kumar',
+    domain: 'Graphic',
+    github: '', // No GitHub URL provided
+    linkedin: 'https://www.linkedin.com/in/mayank-singh-029631198',
+    instagram: 'https://www.instagram.com/___mayank___' // Converted from "___.mayank___"
   },
   {
-    id: 2,
-    img: "/members/Harsh Singh.jpg",
-    name: "Harsh Singh",
-    domain: "Graphic Design",
-    github: "",
-    linkedIn: "",
-    instagram: "",
+    id: 3, // Adjust the ID as needed for your list
+    img: "/members/AISHANI DHAR.jpg",
+    name: "Aishani Dhar",
+    domain: "Graphic",
+    github: "https://github.com/aishanishub",
+    linkedin: "https://www.linkedin.com/in/aishani-dhar-837b52278/",
+    instagram: "https://www.instagram.com/_.dayliight._/"
   },
   {
-    id: 3,
-    img: "/members/moli.jpg",
-    name: "Moli Agarwal",
-    domain: "Graphic Design",
-    github: "https://github.com/moliagarwal",
-    linkedIn: "https://www.linkedin.com/in/moli-agarwal-6756a318b/",
-    instagram: "https://www.instagram.com/moliigargg/",
+    id: 4, // Adjust the ID as needed for your list
+    img: "/members/TANISHI BISEN.jpg",
+    name: "Tanishi Bisen",
+    domain: "Graphic",
+    github: "https://github.com/tanishibisen",
+    linkedin: "https://www.linkedin.com/in/tanishibisen",
+    instagram: "https://www.instagram.com/invites/contact/?igsh=1o3nns9ugf42d&utm_content=ruovqj8"
   },
+  {
+    id: 5, // Adjust the ID as needed for your list
+    img: "/members/riju jain.jpg",
+    name: "Riju Jain",
+    domain: "Graphic",
+    github: "", // No GitHub URL provided
+    linkedin: "https://www.linkedin.com/in/riju-jain?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/riju28?igsh=czg2MHF1YWNtbHRi"
+  },
+  {
+    id: 6, // Adjust the ID as needed for your list
+    img: "/members/anushka sinha.jpg",
+    name: "Anushka Sinha",
+    domain: "Graphic",
+    github: "", // No GitHub URL provided
+    linkedin: "https://www.linkedin.com/in/anushka-sinha510/",
+    instagram: "https://www.instagram.com/its_ansukaaa04/"
+  },
+  {
+    id: 19, // Adjust the ID as needed for your list
+    img: "/members/AYUSH RANJAN.jpg",
+    name: "Ayush Ranjan",
+    domain: "UI/UX",
+    github: "", // Not provided
+    linkedin: "https://www.linkedin.com/in/ayush-ranjan-84651a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/ayushranjan4878/",
+    behance: "https://www.behance.net/Ayush_Ranjan" // Behance URL provided
+  },
+  {
+    id: 20, // Adjust the ID as needed for your list
+    img: "/members/vSin.jpeg",
+    name: "Vaishnavi Singh",
+    domain: "UI/UX",
+    github: "", // Not provided
+    linkedin: "https://www.linkedin.com/in/vaishnavi-singh-3923a328a/",
+    instagram: "https://www.instagram.com/vaishnavisxngh?igsh=cW9pZzNycWlpOGhu",
+    behance: "https://www.behance.net/vaishnavisxngh"
+  },
+  {
+    id: 21, // Adjust the ID as needed for your list
+    img: "/members/RAJASHREE PRAMANIK.jpg",
+    name: "Rajashree Pramanik",
+    domain: "UI/UX",
+    github: "", // Not provided
+    linkedin: "https://www.linkedin.com/in/rajashree-pramanik-605366281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/rajashree.jpg?igsh=MWh4NDBnMmQ5b3FuYw==",
+    behance: "https://www.behance.net/rajashrpramani"
+  },
+  {
+    id: 22, // Adjust the ID as needed for your list
+    img: "/members/Sumedha Singh.jpg",
+    name: "Sumedha Singh Rathor",
+    domain: "UI/UX",
+    github: "", // Not provided
+    linkedin: "https://www.linkedin.com/in/sumedha-singh-rathor-93874726a",
+    instagram: "https://www.instagram.com/sumedhasinghrathor?igsh=N3FsYWMzMzJhdXN0",
+    behance: "https://www.behance.net/sumedhasinghrathor"
+  },
+  {
+    id: 23, // Adjust the ID as needed for your list
+    img: "/members/MD Alam.png",
+    name: "MD Masoom Alam",
+    domain: "UI/UX",
+    github: "https://www.github.com/way2masoom",
+    linkedin: "https://www.linkedin.com/in/way2masoom",
+    instagram: "https://www.instagram.com/way2masoom",
+    behance: "" // Not provided
+  },
+  
 ];
 
 export const CreativeTeam = [
@@ -1710,24 +1663,15 @@ export const CreativeTeam = [
 export const WebDevelopment = [
   {
     id: 1,
-    img: "/members/Harshit2.jpg",
-    name: "Harshit Yadav",
+    img: "/members/aNKIT - Ankit Kumar.jpeg",
+    name: "Ankit Kumar",
     domain: "Web Development",
-    instagram: "https://www.instagram.com/harshit._._.yadav/",
-    github: "https://github.com/CodeMaster17",
-    linkedIn: "https://www.linkedin.com/in/harshit-yadav-2b2b2922b/",
+    instagram: "https://www.instagram.com/ankit.0_/",
+    github: "https://github.com/ankit-k56",
+    linkedIn: "https://www.linkedin.com/in/ankit-kumar-7a9ab3253",
   },
   {
     id: 2,
-    img: "/members/amaan.jpg",
-    name: "Amaan Bhati",
-    domain: "Web Development",
-    instagram: "https://www.instagram.com/amaaanbhati/",
-    github: "http://github.com/amaan-bhati",
-    linkedIn: "https://www.linkedin.com/in/amaan-bhati-6a7105230/",
-  },
-  {
-    id: 14,
     img: "/members/adway.jpg",
     name: "Adway Lachhiramka",
     domain: "Web Development",
@@ -1737,34 +1681,6 @@ export const WebDevelopment = [
   },
   {
     id: 3,
-    img: "/members/anshul.jpg",
-    name: "Anshul Kumar",
-    domain: "Web Development",
-    instagram: "https://instagram.com/anshul_.kumar?igshid=MzNlNGNkZWQ4Mg==",
-    github: "https://github.com/anshulkumarx7",
-    linkedIn: "https://www.linkedin.com/in/anshul-kumar-811ab7238/",
-  },
-  {
-    id: 4,
-    img: "/members/harsh.jpg",
-    name: "Harsh Raj",
-    domain: "Web Development",
-    instagram: "",
-    github: "https://github.com/022003harsh",
-    linkedIn: "https://www.linkedin.com/in/harsh-raj-898340217",
-  },
-
-  {
-    id: 5,
-    img: "/members/Untitled.png",
-    name: "Akshat Srivastava",
-    domain: "Web Development",
-    instagram: "https://instagram.com/_blaze_001_?igshid=NGExMmI2YTkyZg==",
-    github: "https://github.com/A01Akshat",
-    linkedIn: "https://www.linkedin.com/in/akshat-srivastava-23a98b216",
-  },
-  {
-    id: 6,
     img: "/members/MANISH KUMAR.png",
     name: "Manish Kumar",
     domain: "Web Development",
@@ -1773,26 +1689,16 @@ export const WebDevelopment = [
     linkedIn: "https://www.linkedin.com/in/manish-k-46101a139/",
   },
   {
-    id: 11,
-    img: "/members/ANKIT.jpg",
-    name: "Ankit Kumar",
-    domain: "Web Development",
-    instagram: "https://www.instagram.com/ankit.0_/",
-    github: "https://github.com/ankit-k56",
-    linkedIn: "https://www.linkedin.com/in/ankit-kumar-7a9ab3253",
+    id: 4, // Adjust the ID as needed for your list
+    img: "/members/Utkash Jha.png",
+    name: "Utkarsh Jha",
+    domain: "Web Dev",
+    github: "https://github.com/Utkarsh-2005",
+    linkedin: "https://www.linkedin.com/in/utkarsh-jha-002b23266/",
+    instagram: "https://www.instagram.com/utkarsh.905/"
   },
   {
-    id: 7,
-    img: "/members/GARV AGARWAL.png",
-    name: "Garv Agarwal",
-    domain: "Web Development",
-    instagram: "https://instagram.com/0xgarv?igshid=MzNlNGNkZWQ4Mg==",
-    github: "https://github.com/garv-aga",
-    linkedIn: "https://www.linkedin.com/in/garv-agarwal-351ab8164",
-  },
-
-  {
-    id: 10,
+    id: 5,
     img: "/members/yashvardhan.jpg",
     name: "Yashvardhan Singh",
     domain: "Web Development",
@@ -1800,48 +1706,75 @@ export const WebDevelopment = [
     github: "https://github.com/pythonicboat",
     linkedIn: "https://linkedin.com/in/yashvardhan04",
   },
+  {
+    id: 6, // Adjust the ID as needed for your list
+    img: "/members/SOUMYADEEP MITRA.jpg",
+    name: "Soumaydeep Mitra",
+    domain: "Web Dev",
+    github: "https://github.com/Rupoum",
+    linkedin: "https://www.linkedin.com/in/soumyadeep-mitra-71bb012aa/",
+    instagram: "https://www.instagram.com/rupoums/"
+  },
+  {
+    id: 7, // Adjust the ID as needed for your list
+    img: "/members/maanas Sehgal.jpg",
+    name: "Maanas Sehgal",
+    domain: "Web Dev",
+    github: "https://github.com/MaanasSehgal",
+    linkedin: "https://www.linkedin.com/in/maanassehgal",
+    instagram: "https://www.instagram.com/maanas1605"
+  },
+  {
+    id: 8, // Adjust the ID as needed for your list
+    img: "/members/shahan.jpg",
+    name: "Shahan Ali Anwer",
+    domain: "Web Dev",
+    github: "https://github.com/Shahan-nub",
+    linkedin: "https://www.linkedin.com/in/shahan-ali-anwer-5465972a2?trk=contact-info",
+    instagram: "https://www.instagram.com/_.shxhxn._._?igsh=N2UwNTVwcDVnaXdi&utm_source=qr"
+  },
+  {
+    id: 9, // Adjust the ID as needed for your list
+    img: "/members/VAIBHAV RAJ.png",
+    name: "Vaibhav Raj",
+    domain: "Web Dev",
+    github: "https://github.com/dead8309",
+    linkedin: "https://www.linkedin.com/in/vaibhavraj83",
+    instagram: "https://www.instagram.com/vaibhav__83/"
+  },
+  {
+    id: 10, // Adjust the ID as needed for your list
+    img: "/members/ADARSH UPADHYAY.jpg",
+    name: "Adarsh Upadhyay",
+    domain: "Web Dev",
+    github: "https://github.com/Tony-ArtZ",
+    linkedin: "https://www.linkedin.com/in/adarsh-upadhyay-8b8a55232/",
+    instagram: "https://www.instagram.com/adarsh_upadhyay_tz?igsh=MTZiZ3JveGJjenV5bg=="
+  },
+  {
+    id: 11, // Adjust the ID as needed for your list
+    img: "/members/AKANGKHA SARKAR.jpeg",
+    name: "Akangkha Sarkar",
+    domain: "Web Dev",
+    github: "https://github.com/Akangkha",
+    linkedin: "https://www.linkedin.com/in/akangkha-sarkar-4a6b48214",
+    instagram: "https://www.instagram.com/_icche._?igsh=amFwbDNuZTNuMTdw"
+  }
 ];
 
 export const AndroidDevelopment = [
   {
-    id: 1,
-    img: "/members/Aritra Pal.jpg",
-    name: "Aritra Pal",
-    domain: "Android Development",
-    github: "https://github.com/AritraPal147",
-    linkedIn: "https://www.linkedin.com/in/aritra-pal-755970221",
-    instagram: "https://instagram.com/aritrapal147?igshid=ZGUzMzM3NWJiOQ==",
-  },
-  {
-    id: 2,
-    img: "/members/Pranshu sarthak.jpg",
-    name: "Pranshu Sarthak",
-    domain: "Android Development",
-    github: "https://github.com/pranshusarthak",
-    linkedIn: "https://www.linkedin.com/in/pranshu-sarthak/",
-    instagram: "https://www.instagram.com/pranshusarthak/",
+    id: 1, // Adjust the ID as needed for your list
+    img: "/members/FIROJ MUSALMAN (22054360).jpg",
+    name: "Firoj Musalman",
+    domain: "App Dev",
+    github: "https://github.com/neutral-tech",
+    linkedin: "https://www.linkedin.com/in/neutraltech/",
+    instagram: "https://www.instagram.com/neutral_tech/",
   },
   {
     id: 3,
-    img: "/members/SHASHANK DEEPAK.jpg",
-    name: "Shashank Deepak",
-    domain: "Android Development",
-    github: "https://github.com/ShashankDeepak",
-    linkedIn: "https://www.linkedin.com/in/shashank-deepak-08488922b",
-    instagram: "",
-  },
-  {
-    id: 4,
-    img: "/members/Shivangi.png",
-    name: "Shivangi",
-    domain: "Android Development",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 5,
-    img: "/members/G Dhvani Iyer.jpeg",
+    img: "/members/Dhvani Iyer.jpeg",
     name: "G Dhvani Iyer",
     domain: "Android Development",
     github: "",
@@ -1849,67 +1782,68 @@ export const AndroidDevelopment = [
     instagram: "",
   },
   {
-    id: 6,
-    img: "/members/shubhankar shahi.jpg",
-    name: "Shubhankar Shahi",
-    domain: "Android Development",
-    github: "https://github.com/Shubhankar5002",
-    linkedIn: "https://www.linkedin.com/in/shubhankar-shahi-20b588237",
-    instagram: "https://www.instagram.com/shubhankar5002",
+    id: 2, // Adjust the ID as needed for your list
+    img: "/members/ASIPU KHITESHA.jpeg",
+    name: "ASIPU KHITESHA",
+    domain: "App Dev",
+    github: "", // No GitHub provided
+    linkedin: "https://www.linkedin.com/in/khitesha-asipu-6502272aa/",
+    instagram: "itz_tesha15", // Instagram handle provided
   },
+  {
+    id: 4, // Adjust the ID as needed for your list
+    img: "/members/BIJAYANEE SAHOO.png",
+    name: "Bijayanee Sahoo",
+    domain: "App Dev",
+    github: "https://github.com/Bijayanee",
+    linkedin: "https://www.linkedin.com/in/bijayanee-sahoo",
+    instagram: "https://www.instagram.com/bijayanee_",
+  },
+
 ];
 
 export const ARVR = [
   {
-    id: 1,
-    img: "/members/ANISH ROY.jpg",
-    name: "Anish Roy",
-    domain: "AR/VR",
-    github: "https://github.com/RoyAnish074",
-    linkedIn: "https://www.linkedin.com/in/anish-roy19",
-    instagram: "https://instagram.com/royanish074?igshid=MzNlNGNkZWQ4Mg==",
+    id: 1, // Adjust the ID as needed for your list
+    img: "/members/UDAY CHAKRABORTY.png",
+    name: "Uday Narayan Chakraborty",
+    domain: "XR",
+    github: "",
+    linkedin: "https://www.linkedin.com/in/unc",
+    instagram: ""
   },
   {
-    id: 2,
-    img: "/members/pritam.jpg",
-    name: "Pritam Kumar Pal",
-    domain: "AR/VR",
-    github: "https://github.com/PritamPaul01",
-    linkedIn: "https://www.linkedin.com/in/pritam-pal-oo7",
-    instagram: "",
+    id: 2, // Adjust the ID as needed for your list
+    img: "/members/ARCHI KANUNGO.jpg",
+    name: "Archi Kanungo",
+    domain: "XR",
+    github: "https://github.com/archiik04",
+    linkedin: "https://www.linkedin.com/in/archi-kanungo-281bbb21a/",
+    instagram: "https://www.instagram.com/k.archi_04/"
   },
   {
-    id: 1,
-    img: "/members/aryan.jpeg",
-    name: "Aryan Dhal",
-    domain: "AR/VR",
-    github: "https://github.com/aryandhal",
-    linkedIn: "https://www.linkedin.com/in/aryan-dhal-1808a6258",
-    instagram: "https://instagram.com/aryandhal?igshid=MzMyNGUyNmU2YQ==",
+    id: 3, // Adjust the ID as needed for your list
+    img: "/members/GK Prudhvi Raj.jpg",
+    name: "G.K. Prudhvi Raj",
+    domain: "XR",
+    github: "https://github.com/PrudhviRajGK",
+    linkedin: "https://www.linkedin.com/in/g-k-prudhvi-raj-252214259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/prudhvirajgk047?igsh=enR0dDM2djBzaWZr"
   },
+  {
+    id: 4, // Adjust the ID as needed for your list
+    img: "/members/YASH GUPTA.jpeg",
+    name: "Yash Kumar Gupta",
+    domain: "XR",
+    github: "https://github.com/AuraReaper",
+    linkedin: "https://www.linkedin.com/in/yash-kumar-gupta-948b72281",
+    instagram: "https://www.instagram.com/aurareaper1"
+  }
 ];
 
 export const CloudTeam = [
   {
     id: 1,
-    img: "/members/Archit Gupta.jpg",
-    name: "Archit Gupta",
-    domain: "Cloud and CyberSecurity",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 2,
-    img: "/members/Subandhu.png",
-    name: "Subandhu",
-    domain: "Cloud and CyberSecurity",
-    github: "https://github.com/retrojoker",
-    linkedIn: "https://www.linkedin.com/in/subandhu/",
-    instagram: "https://www.instagram.com/dontfollowmeyoullendupinmyarms/",
-  },
-  {
-    id: 3,
     img: "/members/sourasish.png",
     name: "Sourasish Basu",
     domain: "Cloud and CyberSecurity",
@@ -1918,41 +1852,36 @@ export const CloudTeam = [
     instagram: "https://www.instagram.com/_.sourasish/",
   },
   {
-    id: 4,
-    img: "/members/Tanisha.png",
-    name: "Tanisha Verma",
-    domain: "Cloud and CyberSecurity",
-    github: "https://github.com/Tanishaa08",
-    linkedIn: "https://www.linkedin.com/in/tanisha-verma-0118a623b/",
-    instagram: "https://www.instagram.com/tanisha_08___/",
+    id: 2, // Adjust the ID as needed for your list
+    img: "/members/SOUMIK SUTRADHAR.jpg",
+    name: "Soumik Sutradhar",
+    domain: "Cloud",
+    github: "", // GitHub not provided
+    linkedin: "https://www.linkedin.com/in/soumik-sutradhar-3a63b7270",
+    instagram: "https://www.instagram.com/dopester03",
+    youtube: "https://youtube.com/@cavemancoding?si=rPQ-rOHcStcq_RHf"
   },
   {
-    id: 5,
-    img: "/members/rahul.jpeg",
-    name: "Rahul Biswas",
-    domain: "Cloud and CyberSecurity",
-    github: "",
-    linkedIn: "",
-    instagram: "",
+    id: 3, // Adjust the ID as needed for your list
+    img: "/members/ATUL RANA.jpg",
+    name: "Atul Kumar Rana",
+    domain: "Cloud",
+    github: "https://github.com/Atul-Kumar-Rana",
+    linkedin: "https://www.linkedin.com/in/atul-kr-rana-87607228a",
+    instagram: "https://www.instagram.com/atul_k0_",
+    youtube: "" // Not provided
   },
   {
-    id: 6,
-    img: "/members/dhruv.png",
-    name: "Dhruv Agarwal",
-    domain: "Cloud and CyberSecurity",
-    github: "",
-    linkedIn: "",
-    instagram: "",
+    id: 4, // Adjust the ID as needed for your list
+    img: "/members/ABHIGYAN SRIVASTAVA (23052614).jpg",
+    name: "Abhigyan Srivastava",
+    domain: "Cloud",
+    github: "https://github.com/AbhigyanSr",
+    linkedin: "https://www.linkedin.com/in/abhigyansr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/_abhi.sr?igsh=OWhjYmtlOWZ4cWhm",
+    youtube: "" // Not provided
   },
-  {
-    id: 7,
-    img: "/members/mrinank.jpg",
-    name: "Mrinank Bhowmick",
-    domain: "Cloud and CyberSecurity",
-    github: "https://github.com/Mrinank-Bhowmick/",
-    linkedIn: "https://www.linkedin.com/in/mrinank-bhowmick/",
-    instagram: "",
-  },
+  
 ];
 
 export const YT = [

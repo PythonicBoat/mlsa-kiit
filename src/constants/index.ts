@@ -751,19 +751,9 @@ export const OUR_LEADS = [
 
 export const OUR_CURRENT_LEADS = [
   {
-    image: "/Current_Leads/Adarsh_Kumar_Rath.jpeg",
-    name: "Adarsh Kumar Rath",
-    domain: "",
-    message: "",
-    facebook: "",
-    linkedIn: "",
-    instagram: "",
-    github: "",
-  },
-  {
     image: "/Current_Leads/Akshat.JPG",
     name: "Akshat Singh",
-    domain: "Graphic Design",
+    domain: "Lead",
     github: "https://github.com/Afterdie",
     linkedIn: "https://www.linkedin.com/in/akshat-singh-a39058249/",
     instagram: "https://instagram.com/akshatsxngh?igshid=NzZlODBkYWE4Ng==",
@@ -771,25 +761,15 @@ export const OUR_CURRENT_LEADS = [
     message: "",
   },
   {
-    image: "/Current_Leads/Ankit_Kumar.jpg",
-    name: "Ankit Kumar",
-    domain: "Web Dev",
-    message: "",
-    facebook: "",
-    github: "https://github.com/ankit-k56",
-    linkedIn: "https://www.linkedin.com/in/ankit-kumar-7a9ab3253/",
-    instagram: "https://instagram.com/_ankitkumarr?igshid=MzNlNGNkZWQ4Mg==",
-  },
-  {
-    image: "/Current_Leads/Ayush_Ranjan.jpg",
-    name: "Ayush Ranjan",
-    domain: "UI/UX",
+    image: "/Current_Leads/G_Dhvani_Iyer.jpeg",
+    name: "G Dhvani Iyer",
+    domain: "Vice Lead",
     message: "",
     facebook: "",
     linkedIn:
-      "https://www.linkedin.com/in/ayush-ranjan-84651a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    instagram: "https://www.instagram.com/ayushranjan4878?utm_source=qr",
-    github: "https://github.com/ibxbswbcjdwb",
+      "https://www.linkedin.com/in/g-dhvani-iyer-8035ba254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    instagram: "https://www.instagram.com/dhvanii24?igsh=MXZwdDQzczF3YjY3Yg%3D%3D&utm_source=qr",
+    github: "https://github.com/d242003",
   },
   {
     image: "/Current_Leads/Dhruv_Aggarwal.jpeg",
@@ -802,6 +782,60 @@ export const OUR_CURRENT_LEADS = [
     github: "",
   },
   {
+    image: "/Current_Leads/Yashvardhan_Singh.jpg",
+    name: "Yashvardhan Singh",
+    domain: "Tech Lead",
+    message: "",
+    facebook: "",
+    github: "https://github.com/pythonicboat",
+    linkedIn: "https://linkedin.com/in/yashvardhan04",
+    instagram: "https://instagram.com/_yash.vs_",
+  },
+  {
+    image: "/Current_Leads/Swapnil_Dutta.jpeg",
+    name: "Swapnil Dutta",
+    domain: "Tech Lead",
+    message: "",
+    facebook: "",
+    linkedIn: "https://www.linkedin.com/in/swapnildutta1/",
+    instagram: "",
+    github: "https://github.com/rycerzes",
+  },
+
+  {
+    image: "/Current_Leads/Ankit_Kumar.jpg",
+    name: "Ankit Kumar",
+    domain: "Web Dev",
+    message: "",
+    facebook: "",
+    github: "https://github.com/ankit-k56",
+    linkedIn: "https://www.linkedin.com/in/ankit-kumar-7a9ab3253/",
+    instagram: "https://www.instagram.com/ankit.init?igsh=a2g1Mmtsb25sd29k",
+  },
+  {
+    image: "/Current_Leads/Adarsh_Kumar_Rath.jpeg",
+    name: "Adarsh Kumar Rath",
+    domain: "",
+    message: "",
+    facebook: "",
+    linkedIn: "",
+    instagram: "",
+    github: "",
+  },
+
+  {
+    image: "/Current_Leads/Ayush_Ranjan.jpg",
+    name: "Ayush Ranjan",
+    domain: "UI/UX",
+    message: "",
+    facebook: "",
+    linkedIn:
+      "https://www.linkedin.com/in/ayush-ranjan-84651a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/ayushranjan4878?utm_source=qr",
+    github: "https://github.com/ibxbswbcjdwb",
+  },
+
+  {
     image: "/Current_Leads/Firoj_Musalman.jpg",
     name: "Firoj Musalman",
     domain: "",
@@ -811,17 +845,7 @@ export const OUR_CURRENT_LEADS = [
     instagram: "https://www.instagram.com/neutral_tech/",
     github: "https://github.com/neutral-tech",
   },
-  {
-    image: "/Current_Leads/G_Dhvani_Iyer.jpeg",
-    name: "G Dhvani Iyer",
-    domain: "App Dev",
-    message: "",
-    facebook: "",
-    linkedIn:
-      "https://www.linkedin.com/in/g-dhvani-iyer-8035ba254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-    instagram: "https://www.instagram.com/dhvanii24?igsh=MXZwdDQzczF3YjY3Yg%3D%3D&utm_source=qr",
-    github: "https://github.com/d242003",
-  },
+
   {
     image: "/Current_Leads/Mitul_Goswami.jpeg",
     name: "Mitul Goswami",
@@ -894,16 +918,6 @@ export const OUR_CURRENT_LEADS = [
     github: "",
   },
   {
-    image: "/Current_Leads/Swapnil_Dutta.jpeg",
-    name: "Swapnil Dutta",
-    domain: "Tech Lead",
-    message: "",
-    facebook: "",
-    linkedIn: "https://www.linkedin.com/in/swapnildutta1/",
-    instagram: "",
-    github: "https://github.com/rycerzes",
-  },
-  {
     image: "/Current_Leads/Uday_Chakraborty.jpg",
     name: "Uday Chakraborty",
     domain: "XR",
@@ -923,16 +937,7 @@ export const OUR_CURRENT_LEADS = [
     instagram: "",
     github: "",
   },
-  {
-    image: "/Current_Leads/Yashvardhan_Singh.jpg",
-    name: "Yashvardhan Singh",
-    domain: "",
-    message: "",
-    facebook: "",
-    github: "https://github.com/pythonicboat",
-    linkedIn: "https://linkedin.com/in/yashvardhan04",
-    instagram: "https://instagram.com/_yash.vs_",
-  },
+ 
 ];
 
 export const OUR_SPONSORS = [

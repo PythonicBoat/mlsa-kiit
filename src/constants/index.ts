@@ -828,7 +828,7 @@ export const OUR_CURRENT_LEADS = [
   {
     image: "/Current_Leads/Firoj_Musalman.jpg",
     name: "Firoj Musalman",
-    domain: "",
+    domain: "Android Dev",
     message: "",
     facebook: "",
     linkedIn: "https://www.linkedin.com/in/neutraltech/",

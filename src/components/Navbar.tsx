@@ -61,6 +61,7 @@ const Navbar = () => {
         <div className="hidden gap-4 md:gap-1 text-white md:flex md:items-center xl:gap-6">
           <NavbarItem href="/events">Events</NavbarItem>
           <NavbarItem href="/projects">Projects</NavbarItem>
+          <NavbarItem href="/yearbook">Yearbook</NavbarItem>
           <NavbarItem href="https://medium.com/msackiit" external={true}>Blog</NavbarItem>
           <NavbarItem href="/gallery">Gallery</NavbarItem>
           <NavbarItem href="/members">Members</NavbarItem>

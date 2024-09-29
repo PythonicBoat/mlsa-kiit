@@ -812,16 +812,6 @@ export const OUR_CURRENT_LEADS = [
     linkedIn: "https://www.linkedin.com/in/ankit-kumar-7a9ab3253/",
     instagram: "https://www.instagram.com/ankit.init?igsh=a2g1Mmtsb25sd29k",
   },
-  {
-    image: "/Current_Leads/Adarsh_Kumar_Rath.jpeg",
-    name: "Adarsh Kumar Rath",
-    domain: "",
-    message: "",
-    facebook: "",
-    linkedIn: "",
-    instagram: "",
-    github: "",
-  },
 
   {
     image: "/Current_Leads/Ayush_Ranjan.jpg",
@@ -887,6 +877,26 @@ export const OUR_CURRENT_LEADS = [
     github: "",
   },
   {
+    image: "/Current_Leads/Adarsh_Kumar_Rath.jpeg",
+    name: "Adarsh Kumar Rath",
+    domain: "Logistics and Outreach",
+    message: "",
+    facebook: "",
+    linkedIn: "",
+    instagram: "",
+    github: "",
+  },
+  {
+    image: "/Current_Leads/Pankhuri.png",
+    name: "Pankhuri Solanki",
+    domain: "Graphic Design",
+    message: "",
+    facebook: "",
+    github: "",
+    linkedIn: "",
+    instagram: "",
+  },
+  {
     image: "/Current_Leads/Shipra_Singh.jpg",
     name: "Shipra Singh",
     domain: "Broadcasting",
@@ -898,6 +908,7 @@ export const OUR_CURRENT_LEADS = [
   },
   {
     image: "/Current_Leads/Sourashish_Basu.jpg",
+
     name: "Sourashish Basu",
     domain: "Cloud",
     message: "",
@@ -909,7 +920,7 @@ export const OUR_CURRENT_LEADS = [
   {
     image: "/Current_Leads/Sudipta_Subham.jpg",
     name: "Sudipta Subham Sahu",
-    domain: "",
+    domain: "Content",
     message: "",
     facebook: "",
     linkedIn:
@@ -928,16 +939,17 @@ export const OUR_CURRENT_LEADS = [
     github: "",
   },
   {
+    // image: "/Current_Leads/Utsav_Anand.jpeg",
     image: "/Current_Leads/Utsav_Anand.jpeg",
+
     name: "Utsav Anand",
-    domain: "",
+    domain: "Marketing",
     message: "",
     facebook: "",
     linkedIn: "",
     instagram: "",
     github: "",
   },
- 
 ];
 
 export const OUR_SPONSORS = [
@@ -1385,7 +1397,8 @@ export const Marketing1 = [
     domain: "Marketing",
     github: "",
     linkedIn: "https://www.linkedin.com/in/yashaswini-sarangi-88b78a251/",
-    instagram: "https://www.instagram.com/yashaswini._.sarangi?utm_source=qr&igsh=MWF1dDJpNjcxNWQ3YQ==",
+    instagram:
+      "https://www.instagram.com/yashaswini._.sarangi?utm_source=qr&igsh=MWF1dDJpNjcxNWQ3YQ==",
   },
   {
     id: 3,
@@ -1398,21 +1411,22 @@ export const Marketing1 = [
   },
   {
     id: 4,
-    img: '/members/lavanya.jpeg',
-    name: 'Lavanya',
-    domain: 'Marketing',
-    github: '',
-    linkedin: 'https://www.linkedin.com/in/lavanya0409/',
-    instagram: 'https://www.instagram.com/_.lavxnyaaa._?igsh=MTZudzdsOGw0cGIwMQ%3D%3D&utm_source=qr'
+    img: "/members/lavanya.jpeg",
+    name: "Lavanya",
+    domain: "Marketing",
+    github: "",
+    linkedin: "https://www.linkedin.com/in/lavanya0409/",
+    instagram:
+      "https://www.instagram.com/_.lavxnyaaa._?igsh=MTZudzdsOGw0cGIwMQ%3D%3D&utm_source=qr",
   },
   {
     id: 5,
-    img: '/members/debesh.jpg',
-    name: 'Debesh Acharya',
-    domain: 'Marketing',
-    github: 'https://github.com/Debesh-Acharya',
-    linkedin: 'https://www.linkedin.com/in/debesh-acharya-06ba72175',
-    instagram: 'https://www.instagram.com/debeshacharya_?igsh=MTc2cjk0ZHJxazRlZw=='
+    img: "/members/debesh.jpg",
+    name: "Debesh Acharya",
+    domain: "Marketing",
+    github: "https://github.com/Debesh-Acharya",
+    linkedin: "https://www.linkedin.com/in/debesh-acharya-06ba72175",
+    instagram: "https://www.instagram.com/debeshacharya_?igsh=MTc2cjk0ZHJxazRlZw==",
   },
 ];
 
@@ -1428,34 +1442,33 @@ export const MachineLearning = [
   },
   {
     id: 2,
-    img: '/members/TWINKLE PAL.jpg', 
-    name: 'Twinkle Pal',
-    domain: 'AI/ML',
-    github: 'https://github.com/TwinklePal',
-    linkedin: 'https://www.linkedin.com/in/twinkle-pal-2126002b2/',
-    instagram: 'https://www.instagram.com/twinkle__pal/'
+    img: "/members/TWINKLE PAL.jpg",
+    name: "Twinkle Pal",
+    domain: "AI/ML",
+    github: "https://github.com/TwinklePal",
+    linkedin: "https://www.linkedin.com/in/twinkle-pal-2126002b2/",
+    instagram: "https://www.instagram.com/twinkle__pal/",
   },
   {
-    id:3,
-    img: '/members/ROMIT CHATTERJEE.jpg', 
-    name: 'Romit Chatterjee',
-    domain: 'AI/ML',
-    github: 'https://github.com/Romit23',
-    linkedin: 'https://www.linkedin.com/in/romit-chatterjee-1931b326a',
-    instagram: 'https://www.instagram.com/Romit@2004'
-
+    id: 3,
+    img: "/members/ROMIT CHATTERJEE.jpg",
+    name: "Romit Chatterjee",
+    domain: "AI/ML",
+    github: "https://github.com/Romit23",
+    linkedin: "https://www.linkedin.com/in/romit-chatterjee-1931b326a",
+    instagram: "https://www.instagram.com/Romit@2004",
   },
   {
     id: 4,
-    img: '/members/AHONA BAR.jpg',
-    name: 'Ahona Bar',
-    domain: 'AI/ML',
-    github: 'https://github.com/Ahona-Bar',
-    linkedin: 'https://www.linkedin.com/in/ahona-bar-8144422a9/',
-    instagram: 'https://www.instagram.com/ahonaaa.05?igsh=Mm01NWhvbmRoeGFo'
+    img: "/members/AHONA BAR.jpg",
+    name: "Ahona Bar",
+    domain: "AI/ML",
+    github: "https://github.com/Ahona-Bar",
+    linkedin: "https://www.linkedin.com/in/ahona-bar-8144422a9/",
+    instagram: "https://www.instagram.com/ahonaaa.05?igsh=Mm01NWhvbmRoeGFo",
   },
   {
-    id: 5, 
+    id: 5,
     img: "/members/NISHARG.jpg",
     name: "Nisharg Nargund",
     domain: "Machine Learning",
@@ -1464,34 +1477,34 @@ export const MachineLearning = [
     instagram: "https://instagram.com/nisarg_nargund_official?igshid=ZDc4ODBmNjlmNQ==",
   },
   {
-    id:6,
-    img:"/members/Soham.jpeg",
-    name: 'Soham Roy',
-    domain: 'AI/ML',
-    github: 'https://github.com/sohambuilds',
-    linkedin: 'https://linkedin.com/in/sohamr',
-    instagram: 'https://www.instagram.com/soham_.rx/'
+    id: 6,
+    img: "/members/Soham.jpeg",
+    name: "Soham Roy",
+    domain: "AI/ML",
+    github: "https://github.com/sohambuilds",
+    linkedin: "https://linkedin.com/in/sohamr",
+    instagram: "https://www.instagram.com/soham_.rx/",
   },
 ];
 
 export const GraphicDesign = [
   {
     id: 1, // You may adjust this ID as needed
-    img: '/members/Pankhuri Solanki.png',
-    name: 'Pankhuri Solanki',
-    domain: 'Graphic',
-    github: '', // No GitHub URL provided
-    linkedin: 'https://www.linkedin.com/in/pssolanki19/',
-    instagram: 'https://www.instagram.com/pankhur'
+    img: "/members/Pankhuri Solanki.png",
+    name: "Pankhuri Solanki",
+    domain: "Graphic",
+    github: "", // No GitHub URL provided
+    linkedin: "https://www.linkedin.com/in/pssolanki19/",
+    instagram: "https://www.instagram.com/pankhur",
   },
   {
     id: 2, // You may adjust this ID as needed
-    img: '/members/MAYANK KUMAR.jpg',
-    name: 'Mayank Kumar',
-    domain: 'Graphic',
-    github: '', // No GitHub URL provided
-    linkedin: 'https://www.linkedin.com/in/mayank-singh-029631198',
-    instagram: 'https://www.instagram.com/___mayank___' // Converted from "___.mayank___"
+    img: "/members/MAYANK KUMAR.jpg",
+    name: "Mayank Kumar",
+    domain: "Graphic",
+    github: "", // No GitHub URL provided
+    linkedin: "https://www.linkedin.com/in/mayank-singh-029631198",
+    instagram: "https://www.instagram.com/___mayank___", // Converted from "___.mayank___"
   },
   {
     id: 3, // Adjust the ID as needed for your list
@@ -1500,7 +1513,7 @@ export const GraphicDesign = [
     domain: "Graphic",
     github: "https://github.com/aishanishub",
     linkedin: "https://www.linkedin.com/in/aishani-dhar-837b52278/",
-    instagram: "https://www.instagram.com/_.dayliight._/"
+    instagram: "https://www.instagram.com/_.dayliight._/",
   },
   {
     id: 4, // Adjust the ID as needed for your list
@@ -1509,7 +1522,7 @@ export const GraphicDesign = [
     domain: "Graphic",
     github: "https://github.com/tanishibisen",
     linkedin: "https://www.linkedin.com/in/tanishibisen",
-    instagram: "https://www.instagram.com/invites/contact/?igsh=1o3nns9ugf42d&utm_content=ruovqj8"
+    instagram: "https://www.instagram.com/invites/contact/?igsh=1o3nns9ugf42d&utm_content=ruovqj8",
   },
   {
     id: 5, // Adjust the ID as needed for your list
@@ -1517,8 +1530,9 @@ export const GraphicDesign = [
     name: "Riju Jain",
     domain: "Graphic",
     github: "", // No GitHub URL provided
-    linkedin: "https://www.linkedin.com/in/riju-jain?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    instagram: "https://www.instagram.com/riju28?igsh=czg2MHF1YWNtbHRi"
+    linkedin:
+      "https://www.linkedin.com/in/riju-jain?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/riju28?igsh=czg2MHF1YWNtbHRi",
   },
   {
     id: 6, // Adjust the ID as needed for your list
@@ -1527,7 +1541,7 @@ export const GraphicDesign = [
     domain: "Graphic",
     github: "", // No GitHub URL provided
     linkedin: "https://www.linkedin.com/in/anushka-sinha510/",
-    instagram: "https://www.instagram.com/its_ansukaaa04/"
+    instagram: "https://www.instagram.com/its_ansukaaa04/",
   },
   {
     id: 19, // Adjust the ID as needed for your list
@@ -1535,9 +1549,10 @@ export const GraphicDesign = [
     name: "Ayush Ranjan",
     domain: "UI/UX",
     github: "", // Not provided
-    linkedin: "https://www.linkedin.com/in/ayush-ranjan-84651a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    linkedin:
+      "https://www.linkedin.com/in/ayush-ranjan-84651a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     instagram: "https://www.instagram.com/ayushranjan4878/",
-    behance: "https://www.behance.net/Ayush_Ranjan" // Behance URL provided
+    behance: "https://www.behance.net/Ayush_Ranjan", // Behance URL provided
   },
   {
     id: 20, // Adjust the ID as needed for your list
@@ -1547,7 +1562,7 @@ export const GraphicDesign = [
     github: "", // Not provided
     linkedin: "https://www.linkedin.com/in/vaishnavi-singh-3923a328a/",
     instagram: "https://www.instagram.com/vaishnavisxngh?igsh=cW9pZzNycWlpOGhu",
-    behance: "https://www.behance.net/vaishnavisxngh"
+    behance: "https://www.behance.net/vaishnavisxngh",
   },
   {
     id: 21, // Adjust the ID as needed for your list
@@ -1555,9 +1570,10 @@ export const GraphicDesign = [
     name: "Rajashree Pramanik",
     domain: "UI/UX",
     github: "", // Not provided
-    linkedin: "https://www.linkedin.com/in/rajashree-pramanik-605366281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    linkedin:
+      "https://www.linkedin.com/in/rajashree-pramanik-605366281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     instagram: "https://www.instagram.com/rajashree.jpg?igsh=MWh4NDBnMmQ5b3FuYw==",
-    behance: "https://www.behance.net/rajashrpramani"
+    behance: "https://www.behance.net/rajashrpramani",
   },
   {
     id: 22, // Adjust the ID as needed for your list
@@ -1567,7 +1583,7 @@ export const GraphicDesign = [
     github: "", // Not provided
     linkedin: "https://www.linkedin.com/in/sumedha-singh-rathor-93874726a",
     instagram: "https://www.instagram.com/sumedhasinghrathor?igsh=N3FsYWMzMzJhdXN0",
-    behance: "https://www.behance.net/sumedhasinghrathor"
+    behance: "https://www.behance.net/sumedhasinghrathor",
   },
   {
     id: 23, // Adjust the ID as needed for your list
@@ -1577,9 +1593,8 @@ export const GraphicDesign = [
     github: "https://www.github.com/way2masoom",
     linkedin: "https://www.linkedin.com/in/way2masoom",
     instagram: "https://www.instagram.com/way2masoom",
-    behance: "" // Not provided
+    behance: "", // Not provided
   },
-  
 ];
 
 export const CreativeTeam = [
@@ -1701,7 +1716,7 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/Utkarsh-2005",
     linkedin: "https://www.linkedin.com/in/utkarsh-jha-002b23266/",
-    instagram: "https://www.instagram.com/utkarsh.905/"
+    instagram: "https://www.instagram.com/utkarsh.905/",
   },
   {
     id: 5,
@@ -1719,7 +1734,7 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/Rupoum",
     linkedin: "https://www.linkedin.com/in/soumyadeep-mitra-71bb012aa/",
-    instagram: "https://www.instagram.com/rupoums/"
+    instagram: "https://www.instagram.com/rupoums/",
   },
   {
     id: 7, // Adjust the ID as needed for your list
@@ -1728,7 +1743,7 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/MaanasSehgal",
     linkedin: "https://www.linkedin.com/in/maanassehgal",
-    instagram: "https://www.instagram.com/maanas1605"
+    instagram: "https://www.instagram.com/maanas1605",
   },
   {
     id: 8, // Adjust the ID as needed for your list
@@ -1737,7 +1752,7 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/Shahan-nub",
     linkedin: "https://www.linkedin.com/in/shahan-ali-anwer-5465972a2?trk=contact-info",
-    instagram: "https://www.instagram.com/_.shxhxn._._?igsh=N2UwNTVwcDVnaXdi&utm_source=qr"
+    instagram: "https://www.instagram.com/_.shxhxn._._?igsh=N2UwNTVwcDVnaXdi&utm_source=qr",
   },
   {
     id: 9, // Adjust the ID as needed for your list
@@ -1746,7 +1761,7 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/dead8309",
     linkedin: "https://www.linkedin.com/in/vaibhavraj83",
-    instagram: "https://www.instagram.com/vaibhav__83/"
+    instagram: "https://www.instagram.com/vaibhav__83/",
   },
   {
     id: 10, // Adjust the ID as needed for your list
@@ -1755,7 +1770,7 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/Tony-ArtZ",
     linkedin: "https://www.linkedin.com/in/adarsh-upadhyay-8b8a55232/",
-    instagram: "https://www.instagram.com/adarsh_upadhyay_tz?igsh=MTZiZ3JveGJjenV5bg=="
+    instagram: "https://www.instagram.com/adarsh_upadhyay_tz?igsh=MTZiZ3JveGJjenV5bg==",
   },
   {
     id: 11, // Adjust the ID as needed for your list
@@ -1764,8 +1779,8 @@ export const WebDevelopment = [
     domain: "Web Dev",
     github: "https://github.com/Akangkha",
     linkedin: "https://www.linkedin.com/in/akangkha-sarkar-4a6b48214",
-    instagram: "https://www.instagram.com/_icche._?igsh=amFwbDNuZTNuMTdw"
-  }
+    instagram: "https://www.instagram.com/_icche._?igsh=amFwbDNuZTNuMTdw",
+  },
 ];
 
 export const AndroidDevelopment = [
@@ -1805,7 +1820,6 @@ export const AndroidDevelopment = [
     linkedin: "https://www.linkedin.com/in/bijayanee-sahoo",
     instagram: "https://www.instagram.com/bijayanee_",
   },
-
 ];
 
 export const ARVR = [
@@ -1816,7 +1830,7 @@ export const ARVR = [
     domain: "XR",
     github: "",
     linkedin: "https://www.linkedin.com/in/unc",
-    instagram: ""
+    instagram: "",
   },
   {
     id: 2, // Adjust the ID as needed for your list
@@ -1825,7 +1839,7 @@ export const ARVR = [
     domain: "XR",
     github: "https://github.com/archiik04",
     linkedin: "https://www.linkedin.com/in/archi-kanungo-281bbb21a/",
-    instagram: "https://www.instagram.com/k.archi_04/"
+    instagram: "https://www.instagram.com/k.archi_04/",
   },
   {
     id: 3, // Adjust the ID as needed for your list
@@ -1833,8 +1847,9 @@ export const ARVR = [
     name: "G.K. Prudhvi Raj",
     domain: "XR",
     github: "https://github.com/PrudhviRajGK",
-    linkedin: "https://www.linkedin.com/in/g-k-prudhvi-raj-252214259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    instagram: "https://www.instagram.com/prudhvirajgk047?igsh=enR0dDM2djBzaWZr"
+    linkedin:
+      "https://www.linkedin.com/in/g-k-prudhvi-raj-252214259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/prudhvirajgk047?igsh=enR0dDM2djBzaWZr",
   },
   {
     id: 4, // Adjust the ID as needed for your list
@@ -1843,8 +1858,8 @@ export const ARVR = [
     domain: "XR",
     github: "https://github.com/AuraReaper",
     linkedin: "https://www.linkedin.com/in/yash-kumar-gupta-948b72281",
-    instagram: "https://www.instagram.com/aurareaper1"
-  }
+    instagram: "https://www.instagram.com/aurareaper1",
+  },
 ];
 
 export const CloudTeam = [
@@ -1865,7 +1880,7 @@ export const CloudTeam = [
     github: "", // GitHub not provided
     linkedin: "https://www.linkedin.com/in/soumik-sutradhar-3a63b7270",
     instagram: "https://www.instagram.com/dopester03",
-    youtube: "https://youtube.com/@cavemancoding?si=rPQ-rOHcStcq_RHf"
+    youtube: "https://youtube.com/@cavemancoding?si=rPQ-rOHcStcq_RHf",
   },
   {
     id: 3, // Adjust the ID as needed for your list
@@ -1875,7 +1890,7 @@ export const CloudTeam = [
     github: "https://github.com/Atul-Kumar-Rana",
     linkedin: "https://www.linkedin.com/in/atul-kr-rana-87607228a",
     instagram: "https://www.instagram.com/atul_k0_",
-    youtube: "" // Not provided
+    youtube: "", // Not provided
   },
   {
     id: 4, // Adjust the ID as needed for your list
@@ -1883,11 +1898,11 @@ export const CloudTeam = [
     name: "Abhigyan Srivastava",
     domain: "Cloud",
     github: "https://github.com/AbhigyanSr",
-    linkedin: "https://www.linkedin.com/in/abhigyansr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    linkedin:
+      "https://www.linkedin.com/in/abhigyansr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     instagram: "https://www.instagram.com/_abhi.sr?igsh=OWhjYmtlOWZ4cWhm",
-    youtube: "" // Not provided
+    youtube: "", // Not provided
   },
-  
 ];
 
 export const YT = [

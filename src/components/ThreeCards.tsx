@@ -103,7 +103,7 @@ I’m so grateful for the experience, loved every minute of it!! ❤️`,
   name: "Aaryan Jordan ",
   designation: "EX TECH LEAD",
   testimonial: `He is an incredible friend with unmatched communication skills and a fantastic sense of humor that lights up every room.`,
-  image: "/Current_Leads/archit.png"
+  image: "/Current_Leads/jordan.png"
 },
 ]
 

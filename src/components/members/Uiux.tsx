@@ -1,5 +1,6 @@
 "use client";
-import { CreativeTeam } from "@/constants";
+
+import { UIUX } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
@@ -45,14 +46,14 @@ const Item = ({ into, isActive, onClick }: any) => {
           <div className="text-[12px] lg:text-[16.5px] 2xl:text-[20px] text-[#FFF] font-normal leading-none capitalize">{into.name}</div>
 
           <div className="flex items-center gap-[2px] md:gap-1 ">
-            <Link href={"/"}>
-              <Image src={InstaIcon} alt="icon" className={into.instagram === "" ? "hidden" :  "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
+            <Link href={into.instagram || ""}>
+              <Image src={InstaIcon} alt="icon" className={into.instagram === "" ? "hidden" : "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
             </Link>
-            <Link href={""}>
-              <Image src={LinkdIcon} alt="icon" className={into.linkedIn === "" ? "hidden" :  "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
+            <Link href={into.linkedIn || ""}>
+              <Image src={LinkdIcon} alt="icon" className={into.linkedIn === "" ? "hidden" : "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
             </Link>
-            <Link href={""}>
-              <Image src={GithubIcon} alt="icon" className={into.github === "" ? "hidden" :  "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"}  />
+            <Link href={into.github || ""}>
+              <Image src={GithubIcon} alt="icon" className={into.github === "" ? "hidden" : "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
             </Link>
           </div>
 
@@ -67,28 +68,29 @@ const Item = ({ into, isActive, onClick }: any) => {
 }
 
 
-const Creative: any = () => {
+const Uiux: any = () => {
   const [activeCard, setActiveCard] = useState(null);
 
   const handleCardClick = (into: any) => {
     setActiveCard(into === activeCard ? null : into);
   };
   return (
-    <div className="flex">
-      <div className="flex flex-col items-center ">
-        <div className="h-[15px] w-[15px] shadow-dotShadowPurple self-center rounded-full bg-white"></div>
+    <div className="flex ">
+      <div className="flex flex-col items-center px-2 md:px-0">
+        <div className="h-[15px] w-[15px] shadow-dotShadowBlue2 self-center rounded-full bg-white"></div>
 
-        <div className=" w-[5px]  bg-gradient-to-b from-[#533BD0] to-transparent duration-700 transition h-full"></div>
+        <div className="h-full w-[5px]  bg-gradient-to-b from-[#3BABCF] to-transparent duration-700 transition ">
+        </div>
       </div>
       <div className="max-w-[1920px] mx-auto flex">
         <div className="ml-[5px] sm:ml-[10px] md:ml-[40px] lg:ml-[70px]">
 
         </div>
         <div className="flex flex-col">
-          <div className="text-[16px] md:text-2xl lg:text-3xl mb-[30px] leading-normal text-[#FFF] font-semibold ">Content</div>
+          <div className="text-[16px] md:text-2xl lg:text-3xl mb-[30px] leading-normal text-[#FFF] font-semibold ">UI/UX</div>
           <div className="grid mr-0 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-5 w-full gap-2 md:gap-4 lg:gap-8">
 
-            {CreativeTeam.map((into, index) => {
+            {UIUX.map((into, index) => {
               return <Item into={into} key={index} isActive={into === activeCard}
                 onClick={() => handleCardClick(into)} />
             })}
@@ -101,4 +103,4 @@ const Creative: any = () => {
   )
 }
 
-export default Creative
+export default Uiux

@@ -330,7 +330,7 @@ export const OUR_DOMAINS = [
     imgSrc: "/domainLogos/Omnichannel.png",
   },
   {
-    name: "Youtube",
+    name: "Broadcasting",
     about:
       "A team of creative minds who bring our ideas to life. Through their mastery of video storytelling, exceptional editing skills, and a deep understanding of YouTube, they craft engaging content to captivate viewers",
     imgSrc: "/domainLogos/TVShow.png",
@@ -1543,6 +1543,9 @@ export const GraphicDesign = [
     linkedin: "https://www.linkedin.com/in/anushka-sinha510/",
     instagram: "https://www.instagram.com/its_ansukaaa04/",
   },
+];
+
+export const UIUX = [
   {
     id: 19, // Adjust the ID as needed for your list
     img: "/members/AYUSH RANJAN.jpg",
@@ -1595,56 +1598,11 @@ export const GraphicDesign = [
     instagram: "https://www.instagram.com/way2masoom",
     behance: "", // Not provided
   },
-];
+]
 
-export const CreativeTeam = [
+export const CreativeTeam = [ //for Content Team 
   {
     id: 1,
-    img: "/members/DAWAR SHAFAQUE.jpg",
-    name: "Dawar Shafaque",
-    domain: "Creative",
-    github: "https://github.com/dawar-shafaque",
-    linkedIn: "https://www.linkedin.com/in/dawar-shafaque-219a64229",
-    instagram: "https://instagram.com/dawar_shafaque?igshid=NGExMmI2YTkyZg==",
-  },
-  {
-    id: 2,
-    img: "/members/sachi.jpg",
-    name: "Sachi Verma",
-    domain: "Creative",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 3,
-    img: "/members/Isha Mishra.jpg",
-    name: "Isha Mishra",
-    domain: "Creative",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 4,
-    img: "/members/TANVI UPADHYAY.jpg",
-    name: "Tanvi Upadhyay",
-    domain: "Creative",
-    github: "https://github.com/Tanvi-upadhyay",
-    linkedIn: "https://www.linkedin.com/in/tanvi-upadhyay-b4a985216",
-    instagram: "https://www.instagram.com/03_bunny_02/",
-  },
-  {
-    id: 5,
-    img: "/members/SAKSHI PATHAK.jpg",
-    name: "Sakshi Pathak",
-    domain: "Creative",
-    github: "",
-    linkedIn: "",
-    instagram: "",
-  },
-  {
-    id: 6,
     img: "/members/SUDIPTA SUBHAM.jpg",
     name: "Sudipta Subham",
     domain: "Creative",
@@ -1653,32 +1611,24 @@ export const CreativeTeam = [
     instagram: "",
   },
   {
-    id: 7,
-    img: "/members/ANUBHAV KAKATI.jpg",
-    name: "Anubhav Kakati",
+    id: 2,
+    img: "/members/preasha.jpg",
+    name: "Preasha Ghoshal",
+    domain: "Content",
+    github: "",
+    linkedIn: "https://www.linkedin.com/in/preasha-ghoshal",
+    instagram: "https://www.instagram.com/_preasha/",
+  },
+  {
+    id: 3,
+    img: "/members/ashmitasingha.jpg",
+    name: "Ashmita Singha",
     domain: "Creative",
     github: "",
-    linkedIn: "",
-    instagram: "",
+    linkedIn: "https://www.linkedin.com/in/ashmita-singha-06ba30270",
+    instagram: "https://www.instagram.com/ashyndrome",
   },
-  {
-    id: 8,
-    img: "/members/ANKIT MOHAPATRA.jpg",
-    name: "Ankit Mohapatra",
-    domain: "Creative",
-    github: "https://github.com/iamsoankit",
-    linkedIn: "https://www.linkedin.com/in/iamsoankitt/",
-    instagram: "https://www.instagram.com/iamsoankitt/?hl=en",
-  },
-  {
-    id: 9,
-    img: "/members/DIBYOJYOTI DEB.jpg",
-    name: "Dibyojyoti Deb",
-    domain: "Creative",
-    github: "https://github.com/dibyojyoti-deb",
-    linkedIn: "https://www.linkedin.com/in/dibyojyoti-deb-38617025b",
-    instagram: "https://instagram.com/flaming_phoenix_within?igshid=NGExMmI2YTkyZg==",
-  },
+
 ];
 
 export const WebDevelopment = [
@@ -1735,15 +1685,6 @@ export const WebDevelopment = [
     github: "https://github.com/Rupoum",
     linkedin: "https://www.linkedin.com/in/soumyadeep-mitra-71bb012aa/",
     instagram: "https://www.instagram.com/rupoums/",
-  },
-  {
-    id: 7, // Adjust the ID as needed for your list
-    img: "/members/maanas Sehgal.jpg",
-    name: "Maanas Sehgal",
-    domain: "Web Dev",
-    github: "https://github.com/MaanasSehgal",
-    linkedin: "https://www.linkedin.com/in/maanassehgal",
-    instagram: "https://www.instagram.com/maanas1605",
   },
   {
     id: 8, // Adjust the ID as needed for your list
@@ -1905,44 +1846,93 @@ export const CloudTeam = [
   },
 ];
 
+// export const YT = [
+//   {
+//     id: 1,
+//     img: "/members/Paarth Pareek.jpeg",
+//     name: "Paarth Pareek",
+//     domain: "Youtube Hosting",
+//     github: "",
+//     linkedIn: "https://www.linkedin.com/in/paarth-pareek-5689a4218",
+//     instagram: "https://instagram.com/paarth233?igshid=OGQ5ZDc2ODk2ZA==",
+//   },
+//   {
+//     id: 2,
+//     img: "/members/Prakhar Singh.png",
+//     name: "Prakhar Singh",
+//     domain: "Youtube Hosting",
+//     github: "https://github.com/shrike0p",
+//     linkedIn: "https://www.linkedin.com/in/prakhar-singh-01",
+//     instagram: "https://www.instagram.com/_.prakhar._singh/",
+//   },
+//   {
+//     id: 3,
+//     img: "/members/APOORVA AANAND.jpg",
+//     name: "Apoorva Aanand",
+//     domain: "Youtube Hosting",
+//     github: "",
+//     linkedIn: "",
+//     instagram: "",
+//   },
+//   {
+//     id: 4,
+//     img: "/members/bhoomika.jpg",
+//     name: "Bhoomika",
+//     domain: "Youtube Hosting",
+//     github: "",
+//     linkedIn: "https://www.linkedin.com/in/bhoomika-sehta-a76886257",
+//     instagram: "https://instagram.com/bhooxmika?igshid=NGExMmI2YTkyZg==",
+//   },
+// ];
+
+
 export const YT = [
   {
     id: 1,
-    img: "/members/Paarth Pareek.jpeg",
-    name: "Paarth Pareek",
-    domain: "Youtube Hosting",
+    img: "/members/shiprasingh.jpg",
+    name: "Shipra Singh",
+    domain: "Broadcasting",
     github: "",
-    linkedIn: "https://www.linkedin.com/in/paarth-pareek-5689a4218",
-    instagram: "https://instagram.com/paarth233?igshid=OGQ5ZDc2ODk2ZA==",
+    linkedIn: "https://www.linkedin.com/in/shipra-singh-15832a228",
+    instagram: "https://www.instagram.com/shiprasng",
   },
   {
     id: 2,
-    img: "/members/Prakhar Singh.png",
-    name: "Prakhar Singh",
-    domain: "Youtube Hosting",
-    github: "https://github.com/shrike0p",
-    linkedIn: "https://www.linkedin.com/in/prakhar-singh-01",
-    instagram: "https://www.instagram.com/_.prakhar._singh/",
+    img: "/members/apoorvaanand.jpg",
+    name: "Apoorva Anand",
+    domain: "Broadcasting",
+    github: "",
+    linkedIn: "https://www.linkedin.com/in/apoorvaaanand28",
+    instagram: "https://www.instagram.com/apoorvaaanand28?igsh=dHhhcGZ3ZDdhYWsw",
   },
   {
     id: 3,
-    img: "/members/APOORVA AANAND.jpg",
-    name: "Apoorva Aanand",
-    domain: "Youtube Hosting",
+    img: "/members/amritanshiacharya.jpg",
+    name: "Amritanshi Acharya",
+    domain: "Broadcasting",
     github: "",
-    linkedIn: "",
-    instagram: "",
+    linkedIn: "https://www.linkedin.com/in/amritanshi-acharya-46b948293/",
+    instagram: "https://www.instagram.com/ach_amritanshi",
   },
   {
     id: 4,
-    img: "/members/bhoomika.jpg",
-    name: "Bhoomika",
-    domain: "Youtube Hosting",
+    img: "/members/vaishnavikumar.jpg",
+    name: "Vaishnavi uttam kumar",
+    domain: "Broadcasting",
     github: "",
-    linkedIn: "https://www.linkedin.com/in/bhoomika-sehta-a76886257",
-    instagram: "https://instagram.com/bhooxmika?igshid=NGExMmI2YTkyZg==",
+    linkedIn: "https://www.linkedin.com/in/vaishnavi-kumar-19785530b",
+    instagram: "https://www.instagram.com/shut_up_vaishh",
   },
-];
+  {
+    id: 5,
+    img: "/members/shivalisharma.jpg",
+    name: "Shivali sharma",
+    domain: "Broadcasting",
+    github: "",
+    linkedIn: "https://www.linkedin.com/in/shivali-sharma-8305512ab",
+    instagram: "https://www.instagram.com/Shiv.ali.__",
+  },
+]
 
 export const GALLERY = [
   {

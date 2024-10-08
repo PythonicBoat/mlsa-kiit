@@ -63,11 +63,11 @@ const Footer = () => {
                 <h1 className="text-base mb-2 font-bold">CONTACT US</h1>
                 <span className="flex items-center gap-2 group">
                   <FaPhoneAlt className="group-hover:text-[#0070C5]" />
-                  <p>+91 9835990548</p>
+                  <p>+91 9693339839</p>
                 </span>
                 <span className="flex items-center gap-2 group">
                   <FaPhoneAlt className="group-hover:text-[#0070C5]" />
-                  <p>+91 7631999254</p>
+                  <p>+91 8218250837</p>
                 </span>
                 <span className="flex items-center gap-2 group">
                   <HiMail className="group-hover:text-[#0070C5]" />
@@ -88,7 +88,7 @@ const Footer = () => {
             <div className="flex flex-col md:flex-row gap-1 md:gap-4 text-xs text-[#9e9b9b] tracking-[2px]">
               <span className="flex gap-2 items-center justify-center md:justify-start">
                 <FaRegCopyright />
-                <p className="text-center">2023 MLSA KIIT</p>
+                <p className="text-center">2024 MLSA KIIT</p>
               </span>
               <span className="hidden md:block"> | </span>
               <p>DESIGNED BY MLSA KIIT TEAM</p>

@@ -38,8 +38,8 @@ const Hero = () => {
         <div className="absolute left-0 right-0 top-0 z-40 flex justify-center ">
           <EventHome
             Classname="z-30 mt-[100px]"
-            eventName="TBA"
-            registrationLink="https://linktr.ee/mlsakiit"
+            eventName="HacktoberFest x MLSA"
+            registrationLink="https://contact-mlsa.vercel.app/"
             registrationClosed={false}
             display={true}
             registrationName="Join our socials"
@@ -60,7 +60,7 @@ const Hero = () => {
           <EventHome
             Classname="z-30 mt-[1.5rem]"
             eventName="D3FC0N is LIVE "
-            registrationLink="https://linktr.ee/mlsakiit"
+            registrationLink="https://contact-mlsa.vercel.app/"
             registrationClosed={false}
             registrationName="Socials"
             display={true}

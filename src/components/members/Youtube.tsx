@@ -86,7 +86,7 @@ const Youtube:any = () => {
 
         </div>
         <div className="flex flex-col">
-          <div className="text-[16px] md:text-2xl lg:text-3xl mb-[30px] leading-normal text-transparent text-white font-normal ">Youtube</div>
+          <div className="text-[16px] md:text-2xl lg:text-3xl mb-[30px] leading-normal text-transparent text-white font-normal ">Broadcasting</div>
           <div className="grid mr-0 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-5 w-full gap-2 md:gap-4 lg:gap-8">
 
             {YT.map((into, index) => {

@@ -3,7 +3,7 @@
 import { GraphicDesign } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";
-import React,{ useState } from "react";
+import { useState } from "react";
 import GithubIcon from "../../../public/Github.svg";
 import LinkdIcon from "../../../public/LinkedIn.svg";
 import InstaIcon from "../../../public/instagram.svg";
@@ -46,14 +46,14 @@ const Item = ({ into, isActive, onClick }: any) => {
           <div className="text-[12px] lg:text-[16.5px] 2xl:text-[20px] text-[#FFF] font-normal leading-none capitalize">{into.name}</div>
 
           <div className="flex items-center gap-[2px] md:gap-1 ">
-            <Link href={into.instagram ||""}>
-              <Image src={InstaIcon} alt="icon" className={into.instagram === "" ? "hidden" :  "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
+            <Link href={into.instagram || ""}>
+              <Image src={InstaIcon} alt="icon" className={into.instagram === "" ? "hidden" : "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
             </Link>
             <Link href={into.linkedIn || ""}>
-              <Image src={LinkdIcon} alt="icon" className={into.linkedIn === "" ? "hidden" :  "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
+              <Image src={LinkdIcon} alt="icon" className={into.linkedIn === "" ? "hidden" : "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
             </Link>
             <Link href={into.github || ""}>
-              <Image src={GithubIcon} alt="icon" className={into.github === "" ? "hidden" :  "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
+              <Image src={GithubIcon} alt="icon" className={into.github === "" ? "hidden" : "transition duration-100 hover:scale-110 h-[15px] w-[15px] md:h-[17px] md:w-[17px] 2xl:h-[24px] 2xl:w-[24px]"} />
             </Link>
           </div>
 
@@ -68,7 +68,7 @@ const Item = ({ into, isActive, onClick }: any) => {
 }
 
 
-const Graphicdesign:any = () => {
+const Graphicdesign: any = () => {
   const [activeCard, setActiveCard] = useState(null);
 
   const handleCardClick = (into: any) => {

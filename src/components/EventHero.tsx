@@ -60,7 +60,7 @@ const EventHero = () => {
                   </div>
 
                 </div>
-                <Link href="https://linktr.ee/mlsakiit" target="_blank">
+                <Link href="https://contact-mlsa.vercel.app/" target="_blank">
                   <button className=" mb-[15px]  flex w-full items-center justify-center  whitespace-nowrap rounded-[100px] bg-gradient-to-r from-[#0070C5] to-[#3BABCF]  px-2  py-1 text-xs lg:text-xl lg:px-8  ">
                     Join our socials
                   </button>

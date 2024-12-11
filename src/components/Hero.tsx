@@ -38,7 +38,7 @@ const Hero = () => {
         <div className="absolute left-0 right-0 top-0 z-40 flex justify-center ">
           <EventHome
             Classname="z-30 mt-[100px]"
-            eventName="HacktoberFest x MLSA"
+            eventName="Hackocalypse"
             registrationLink="https://contact-mlsa.vercel.app/"
             registrationClosed={false}
             display={true}

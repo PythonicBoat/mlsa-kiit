@@ -1035,6 +1035,18 @@ export const OUR_SPONSORS = [
 ];
 
 export const EVENTS2024 = [
+  // {
+  //   bgColor: "#9CE7FF",
+  //   img: "/hcfest.JPG",
+  //   ProjectName: "Hackocalypse",
+  //   date: "12-14th December 2024",
+  //   numParticipants: "1000+ Participants",
+  //   isButton: false,
+  //   isHero: false,
+  //   link: "",
+  //   description:
+  //     "A beginner-friendly workshop to spread awareness about Open-Source and Hackathon.",
+  // },
   {
     bgColor: "#9CE7FF",
     img: "/defcon_event.JPG",

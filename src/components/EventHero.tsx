@@ -33,7 +33,7 @@ const EventHero = () => {
             <div className="py-4 md:py-2 mx-auto mt-[5rem]  border-[1px] border-[#858585] border-solid flex items-center   justify-between rounded-xl bg-[#25252580] text-white shadow-gray  lg:w-[100%] ">
               <Link href={""} target="_blank">
                 <Image
-                  src='/Hackocalypse.png'
+                  src='/eventImages/project wing 4.0.png'
                   alt="Hackoplcpyse Event"
                   width={150}
                   height={150}

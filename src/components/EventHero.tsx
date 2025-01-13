@@ -55,7 +55,7 @@ const EventHero = () => {
 
                   <div className="my-2 flex items-center justify-end gap-1">
                     <BsCalendar4Week />
-                    <p>12th Jan</p>
+                    <p>Applications open till 17th Jan, 2025</p>
                   </div>
                   <div className="duration-50 mb-2 mt-1 h-[2px] w-[100%] bg-gradient-to-r from-transparent to-[#ffffff]  my-1 lg:my-2 "></div>
                   <div className="flex sm:flex-row sm:gap-4 sm:items-center flex-col ">

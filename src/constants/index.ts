@@ -1460,6 +1460,7 @@ export const MachineLearning = [
     github: "https://github.com/mitul-goswami",
     linkedIn: "https://www.linkedin.com/in/mitul-goswami-a6114b230/",
     instagram: "https://instagram.com/mitul__95__?igshid=ZDc4ODBmNjlmNQ==",
+    lead: true,
   },
   {
     id: 2,
@@ -1508,6 +1509,7 @@ export const GraphicDesign = [
     github: "", // No GitHub URL provided
     linkedIn: "https://www.linkedin.com/in/pssolanki19/",
     instagram: "https://www.instagram.com/pankhur",
+    lead: true,
   },
   {
     id: 2, // You may adjust this ID as needed
@@ -1568,6 +1570,7 @@ export const UIUX = [
       "https://www.linkedin.com/in/ayush-ranjan-84651a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     instagram: "https://www.instagram.com/ayushranjan4878/",
     behance: "https://www.behance.net/Ayush_Ranjan", // Behance URL provided
+    lead: true,
   },
   {
     id: 20, // Adjust the ID as needed for your list
@@ -1622,6 +1625,7 @@ export const CreativeTeam = [
     github: "",
     linkedIn: "",
     instagram: "",
+    lead: true,
   },
   {
     id: 2,
@@ -1631,6 +1635,7 @@ export const CreativeTeam = [
     github: "",
     linkedIn: "https://www.linkedin.com/in/preasha-ghoshal",
     instagram: "https://www.instagram.com/_preasha/",
+    lead: true,
   },
   {
     id: 3,
@@ -1652,6 +1657,7 @@ export const WebDevelopment = [
     instagram: "https://www.instagram.com/ankit.0_/",
     github: "https://github.com/ankit-k56",
     linkedIn: "https://www.linkedin.com/in/ankit-kumar-7a9ab3253",
+    lead: true,
   },
   {
     id: 2,
@@ -1745,6 +1751,7 @@ export const AndroidDevelopment = [
     github: "https://github.com/neutral-tech",
     linkedIn: "https://www.linkedin.com/in/neutraltech/",
     instagram: "https://www.instagram.com/neutral_tech/",
+    lead: true,
   },
   {
     id: 3,
@@ -1784,6 +1791,7 @@ export const ARVR = [
     github: "",
     linkedIn: "https://www.linkedin.com/in/unc",
     instagram: "",
+    lead: true,
   },
   {
     id: 2, // Adjust the ID as needed for your list
@@ -1824,6 +1832,7 @@ export const CloudTeam = [
     github: "https://github.com/SourasishBasu",
     linkedIn: "https://www.linkedin.com/in/sourasishbasu/",
     instagram: "https://www.instagram.com/_.sourasish/",
+    lead: true,
   },
   {
     id: 2, // Adjust the ID as needed for your list
@@ -1906,6 +1915,7 @@ export const YT = [
     github: "",
     linkedIn: "https://www.linkedin.com/in/shipra-singh-15832a228",
     instagram: "https://www.instagram.com/shiprasng",
+    lead: true,
   },
   {
     id: 2,

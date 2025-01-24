@@ -81,12 +81,12 @@ I’m so grateful for the experience, loved every minute of it!! ❤️`,
   testimonial: `I joined the MLSA back in my first year of college when it was still known as the Microsoft Student Community (MSC). Ever since then, it has been one of the best part of my college journey. The experiences I've had here, both technical and personal, have truly brought out the best in me. From the knowledge I gained to the friendships I forged, every event, GBM, ideation session, and even the ups and downs have been memorable. MLSA has left a lasting impact on me, and I am deeply grateful for the opportunities and growth it provided. This community will always hold a special place in my heart, and I’m confident it will continue to inspire and elevate its members in the best way possible.`,
   image: "/Current_Leads/amaan.png"
 },
-{
-  name: "Anand",
-  designation: "EX UIUX LEAD",
-  testimonial: `My time at MLSA was an extraordinary adventure, leading a dream team of talented individuals who became an unstoppable force. Together, we built a domain renowned for exceptional teamwork, seamless collaboration, and commitment to ethics. I'm grateful for the invaluable lessons, unforgettable experiences, and lifelong friendships forged during this journey. MLSA will always be a shining example of what can be achieved when teamwork, ethics, and passion come together. This experience will forever be a highlight of my college life.`,
-  image: "/Current_Leads/arunopal.png"
-},
+// {
+//   name: "Anand",
+//   designation: "EX UIUX LEAD",
+//   testimonial: `My time at MLSA was an extraordinary adventure, leading a dream team of talented individuals who became an unstoppable force. Together, we built a domain renowned for exceptional teamwork, seamless collaboration, and commitment to ethics. I'm grateful for the invaluable lessons, unforgettable experiences, and lifelong friendships forged during this journey. MLSA will always be a shining example of what can be achieved when teamwork, ethics, and passion come together. This experience will forever be a highlight of my college life.`,
+//   image: "/Current_Leads/arunopal.png"
+// },
 {
   name: "Paarth Pareek",
   designation: "EX LEAD",
